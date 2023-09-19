@@ -1,8 +1,13 @@
-snowflake-connector-python
+altair
 
+pandas
 
-cffi==1.15.0
+streamlit
 
-pyarrow<8.1.0,>=8.0.0
+snowflake
 
-streamlit >= 1.9.2
+charset-normalizer==2.0.12
+
+ 
+
+snowflake-connector-python==2.7.9
