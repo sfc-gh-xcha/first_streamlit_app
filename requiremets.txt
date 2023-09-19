@@ -1,13 +1,9 @@
-altair
+# requirements.txt
 
-pandas
+snowflake-connector-python
 
-streamlit
+cffi==1.15.0
 
-snowflake
+pyarrow<8.1.0,>=8.0.0
 
-charset-normalizer==2.0.12
-
- 
-
-snowflake-connector-python==2.7.9
+streamlit==1.25.0
